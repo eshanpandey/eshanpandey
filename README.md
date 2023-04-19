@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working learning new things, building stuff<br>👯 I’m looking to collaborate on web 3.0 projects<br>🌱 I’m currently a final year engineering student<br>
+🔭 I’m currently learning new things, building stuff<br>👯 I’m looking to collaborate on web 3.0 projects<br>🌱 I’m currently a final year engineering student<br>
 
 
 ## 🌐 Socials:
