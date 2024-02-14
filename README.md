@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently learning new things and building stuff.  
-👯 I’m looking to collaborate on web 3.0 projects.  
-🌱 A recent Engineering graduate with a specialization in [mention your specialization].
+🔭 I’m currently learning new things and building stuff.
+👯 I’m looking to collaborate with developers and make something cool. 
+🌱 A recent Engineering graduate with a specialization in Information Technology.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eshan-p-742881194/)
