@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently learning new things and building stuff.
+#  Hello, Visitor:
+I’m Eshan new to the tech wonderland but trying to make it my home.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-p/)
