@@ -1,4 +1,4 @@
-#  Hello, Visitor:
+#  Hello, Visitor
 I’m Eshan new to the tech wonderland but trying to make it my home.
 
 ## 🌐 Socials:
